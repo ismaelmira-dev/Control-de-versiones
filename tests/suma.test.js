@@ -1,8 +1,10 @@
-import test from 'node:test';
-import assert from 'node:assert/strict';
+const test = require('node:test');
+const assert = require('node:assert/strict');
+
 function suma(a, b) {
-return a + b;
+  return a + b;
 }
-test('suma 3 + 3 = 6', () => {
-assert.equal(suma(3, 3), 6);
-}); 
+
+test('suma 3 + 4 = 7', () => {
+  assert.equal(suma(3, 4), 7);
+});

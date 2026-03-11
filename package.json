@@ -1,0 +1,27 @@
+{
+  "devDependencies": {
+    "prettier": "^3.8.1"
+  },
+  "name": "control-versiones",
+  "version": "1.0.0",
+  "description": "Se actualizaron los archivos a la clase mas reciente",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ismaelmira-dev/Control-de-versiones.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ismaelmira-dev/Control-de-versiones/issues"
+  },
+  "homepage": "https://github.com/ismaelmira-dev/Control-de-versiones#readme"
+}
